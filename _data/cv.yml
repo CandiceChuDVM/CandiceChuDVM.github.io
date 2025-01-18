@@ -1,17 +1,3 @@
-- title: Candice P. Chu
-  type: map
-  contents:
-    - name: Email
-      value: cchu at cvm dot tamu dot edu
-    - name: Google Scholar
-      value: https://scholar.google.com/citations?user=cv_brEAAAAAJ&hl=en&authuser=1
-    - name: LinkedIn
-      value: https://www.linkedin.com/in/candicechudvm
-    - name: Facebook
-      value: https://www.facebook.com/Vet.Clin.Path.Professor/
-    - name: Instagram 
-      value: https://www.instagram.com/vet.clin.path.professor/
-
 - title: Education
   type: time_table
   contents:
