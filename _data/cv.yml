@@ -41,22 +41,6 @@
 
 - title: Honors and Awards
   type: time_table
-  - title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Candice P. Chu
-    - name: Email
-      value: cchu@cvm.tamu.edu
-    - name: Phone
-      value: 979-862-2708
-    - name: Personal Website
-      value: http://www.candicechudvm.com
-    - name: Languages
-      value: Mandarin Chinese (Native), English (Fluent)
-
-- title: Honors and Awards
-  type: time_table
   contents:
     - year: 2022
       items:
