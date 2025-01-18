@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: Assistant Professor at <a href='https://vetmed.tamu.edu/'>Texas A&M College of Veterinary Medicine & Biomedical Sciences</a>.
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,8 +14,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Candice P. Chu is a veterinary clinical pathologist and an Assistant Professor at [Texas A&M University](https://www.tamu.edu/index.html). She earned her DVM from [National Taiwan University](https://www.ntu.edu.tw/english/), followed by a PhD in veterinary pathology and clinical pathology residency training at Texas A&M. Before her current role, she served as an Assistant Professor of Clinical Pathology at the [University of Pennsylvania](https://www.upenn.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Her research applies artificial intelligence, machine learning, and genomic technologies to improve diagnostic precision and develop non-invasive tools for conditions like acute pancreatitis and glomerular diseases in dogs. Her work integrates data science and pathology to enhance veterinary diagnostics and education, with a focus on one-health solutions connecting animal and human health.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+She authored the review article: [ChatGPT in veterinary medicine: a practical guidance of generative artificial intelligence in clinics, education, and research](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1395934/full) and has served as an invited and keynote speaker on AI at major conferences, including [ACVP](https://cdn.ymaws.com/www.acvp.org/resource/resmgr/2024_annual_meeting/2024_acvp_asvcp_annual_meeti.pdf), [ACVIM](https://www.acvim.org/education/course-catalog/how-i-streamline-academic-writing-with-ai-and-digital-tools), [AVMA](https://s1.goeshow.com/avma/annual/2024/AVMA2024.cfm), and [ACVR](https://acvr.org/event_post/acvr-scientific-conference-2024-norfolk/). Recently, she was recently nominated to join the [AVMA Task Force on Emerging Technologies and Innovation](https://www.avma.org/news/board-chair-addresses-colorado-ballot-initiative-highlights-emerging-technology-task-force).
