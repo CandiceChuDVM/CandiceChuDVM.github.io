@@ -1,16 +1,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Veterinary Clinical Pathology Residency
       institution: Texas A&M University, College Station, TX, USA
-      year: 2013 - 2018
-      description:
-        - Veterinary Pathobiology
-    - title: DVM
+      year: 2018 - 2021
+    - title: PhD in Veterinary Pathobiology
+      institution: Texas A&M University, College Station, TX, USA
+      year: 2014 - 2018
+    - title: Doctor of Veterinary Medicine
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2009 - 2013
-      description:
-        - Veterinary Medicine
+      year: 2008 - 2013
+    - title: High School
+      institution: National Experimental High School at Hsinchu Science Park, Hsinchu, Taiwan
+      year: 2006 - 2008
 
 - title: Work Experience
   type: time_table
