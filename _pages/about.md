@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at <a href='https://vetmed.tamu.edu/'>Texas A&M College of Veterinary Medicine & Biomedical Sciences</a>.
+subtitle: DVM, PhD. DACVP
 profile:
   align: right
   image: prof_pic.jpg
@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Dr. Candice P. Chu is a veterinary clinical pathologist and an Assistant Professor at [Texas A&M University](https://www.tamu.edu/index.html). She earned her DVM from [National Taiwan University](https://www.ntu.edu.tw/english/), followed by a PhD in veterinary pathology and clinical pathology residency training at Texas A&M. Before her current role, she served as an Assistant Professor of Clinical Pathology at the [University of Pennsylvania](https://www.upenn.edu/).
+Dr. Candice P. Chu earned her DVM from [National Taiwan University](https://www.ntu.edu.tw/english/), followed by a PhD in veterinary pathology and clinical pathology residency training at [Texas A&M College of Veterinary Medicine & Biomedical Sciences](https://vetmed.tamu.edu/). Before her current role, she served as an Assistant Professor of Clinical Pathology at the [University of Pennsylvania](https://www.upenn.edu/).
 
 Her research applies artificial intelligence, machine learning, and genomic technologies to improve diagnostic precision and develop non-invasive tools for conditions like acute pancreatitis and glomerular diseases in dogs. Her work integrates data science and pathology to enhance veterinary diagnostics and education, with a focus on one-health solutions connecting animal and human health.
 
