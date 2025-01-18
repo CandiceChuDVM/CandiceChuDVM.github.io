@@ -1,16 +1,7 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: cv
-nav: true
 nav_order: 5
+cv_pdf: Chu_CV.pdf
 ---
-<embed 
-  src="/assets/pdfs/Chu_CV.pdf" 
-  type="application/pdf" 
-  width="100%" 
-  height="800px" />
-
-<p>
-  <a href="/assets/pdfs/Chu_CV.pdf" download>Download My CV (PDF)</a>
-</p>
