@@ -15,5 +15,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   <p>BIMS Master's student</p>
+    more_info: >
   <p>Yumi Chang, DVM</p>
 ---
