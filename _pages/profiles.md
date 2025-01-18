@@ -14,5 +14,5 @@ profiles:
     content: about_yumi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Yumi Chang</p>
+      <p>BIMS Master's student: Yumi Chang, DVM</p>
 ---
