@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-news",
+          title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-wyd-database",
+          title: "WYD Database",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/WYD_database/";
           },
         },{id: "nav-people",
           title: "people",
@@ -403,16 +410,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-dr-chu-has-published-banish-the-pdf-hunting-blues-with-these-ai-and-digital-tools-on-nature-career-column",
+          title: 'Dr. Chu has published Banish the PDF-hunting blues with these AI and digital...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-watch-dr-chu-s-research-conversation-series-talk-how-i-streamline-academic-writing-with-ai-and-digital-tools-on-youtube",
+          title: 'Watch Dr. Chu’s Research Conversation Series talk How I Streamline Academic Writing with...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-dr-chu-is-hosting-a-data-science-for-veterinary-researchers-workshop-on-feb-17-21-2025",
+          title: 'Dr. Chu is hosting a Data Science for Veterinary Researchers Workshop on Feb...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
