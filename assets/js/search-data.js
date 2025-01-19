@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-wyd-database",
-          title: "WYD Database",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/WYD_database/";
-          },
         },{id: "nav-people",
           title: "People",
           description: "members of Chu Lab",
