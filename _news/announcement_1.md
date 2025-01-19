@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Chu is hosting a [Data Science for Veterinary Researchers Workshop](https://tamids.tamu.edu/event/data-science-workshop-for-veterinary-researchers/) on Feb 17–21, 2025.
+Worksho: Dr. Chu is hosting [Data Science for Veterinary Researchers](https://tamids.tamu.edu/event/data-science-workshop-for-veterinary-researchers/) with [Texas A&M Institute of Data Science](tamids.tamu.edu/) on Feb 17–21, 2025.
