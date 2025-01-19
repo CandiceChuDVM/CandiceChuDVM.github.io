@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Article: [Canine round cell tumor cytology](https://vetfocus.royalcanin.com/en/authors/candice-p-chu)(Vet Focus).
+📝 Article: [Canine round cell tumor cytology](https://vetfocus.royalcanin.com/en/authors/candice-p-chu) (Vet Focus)
