@@ -83,52 +83,63 @@
   type: time_table
   contents:
     - year: 2022 - Present
-      items: Member, ASVCP Education Committee
+      items: 
+        - Member, ASVCP Education Committee
     - year: 2021 - Present
-      items: Member and Forum Co-chair, ACVP Pathology Informatics Committee
+      items: 
+        - Member and Forum Co-chair, ACVP Pathology Informatics Committee
     - year: 2022 - 2024
-      items: Member, ACVP Training Program Accreditation Committee (2022 - Present)
+      items: 
+        - Member, ACVP Training Program Accreditation Committee (2022 - Present)
     - year: 2019 - 2023
-      items: Member and Chair-Elect, ASVCP Media and Communication Committee
+      items: 
+        - Member and Chair-Elect, ASVCP Media and Communication Committee
 
 - title: Professional Membership
   type: time_table
   contents:
     - year: 2024 - Present
-      items: Association of Veterinary Informatics
+      items: 
+        - Association of Veterinary Informatics
     - year: 2021 - Present
-      items: Digital Pathology Association   
+      items: 
+        - Digital Pathology Association   
     - year: 2020 - Present
-      items: Clinical and Translational Science Award One Health Alliance
-    - year: 2020 - Present
-      items: American College of Veterinary Pathologists
-    - year: 2020 - Present
-      items: American Society of Veterinary Nephrology and Urology (2020 - Present)
+      items: 
+        - Clinical and Translational Science Award One Health Alliance
+        - American College of Veterinary Pathologists
+        - American Society of Veterinary Nephrology and Urology (2020 - Present)
     - year: 2019 - Present
-      items: International Society for Animal Clinical Pathology
+      items: 
+        - International Society for Animal Clinical Pathology
     - year: 2016 - Present
-      items: American Society for Veterinary Clinical Pathology
+      items: 
+        - American Society for Veterinary Clinical Pathology
     - year: 2015 - Present
-      items: American Veterinary Medical Association
+      items: 
+        - American Veterinary Medical Association
     
 - title: Licenses & certifications
   type: time_table
   contents:
     - year: 2024
-      items: Applied Data Science Program: Leveraging AI for Effective Decision-Making (MIT Professional Education)
-    - year: 2024
-      items: NIH Compass Training Program (Washington University School of Medicine)
+      items: 
+        - Applied Data Science Program - Leveraging AI for Effective Decision-Making (MIT Professional Education)
+        - NIH Compass Training Program (Washington University School of Medicine)
     - year: 2022
-      items: Digital Pathology Certificate (The National Society for Histotechnology)
+      items: 
+        - Digital Pathology Certificate (The National Society for Histotechnology)
     - year: 2021
-      items: QPR Suicide Prevention Gatekeeper Program (Texas A&M University)
+      items: 
+         - QPR Suicide Prevention Gatekeeper Program (Texas A&M University)
     - year: 2020
-      items: Certificate for Diversity & Inclusion in Veterinary Medicine (Purdue University)
-    - year: 2020
-      items: Texas Veterinary License (S-576)
+      items: 
+        - Certificate for Diversity & Inclusion in Veterinary Medicine (Purdue University)
+        - Texas Veterinary License (S-576)
     - year: 2016
-      items: Certificate of Achievement in Hemodialysis Academy (UC Davis)
-    - year: 2016
-      items: CVM Inclusive Climate Aggie Ally (Texas A&M University)
+      items: 
+        - Certificate of Achievement in Hemodialysis Academy (UC Davis)
+        - CVM Inclusive Climate Aggie Ally (Texas A&M University)
     - year: 2013
-      items: Taiwan Veterinary License (#7309)
+      items: 
+        - Taiwan Veterinary License (#7309)
