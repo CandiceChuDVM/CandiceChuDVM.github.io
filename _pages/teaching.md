@@ -5,16 +5,19 @@ title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 3
+display_categories: [YouTube, Podcast]
 ---
 
 <div class="teaching">
   <div>
-  	VTPB 927 Clinical Pathology - Acid base disturbance & Monovalent electorlytes
-  	VSCS 948 Innovation in Veterinary Medicine - AI Panel
-  	BIMS602 Foundations in Biomedical Graduate Education and Research - AI tools in research
-  	Anatomic Pathology Gross Rounds
-  	Clinical Pathology Cytology Rounds
-  	Clinical Pathology Seminar
+  	<ul>
+  	  <li>VTPB 927 Clinical Pathology - Acid base disturbance & Monovalent electorlytes</li>
+  	  <li>VSCS 948 Innovation in Veterinary Medicine - AI Panel</li>
+  	  <li>BIMS602 Foundations in Biomedical Graduate Education and Research - AI tools in research</li>
+  	  <li>Anatomic Pathology Gross Rounds</li>
+  	  <li>Clinical Pathology Cytology Rounds</li>
+  	  <li>Clinical Pathology Seminar</li>
+  	</ul>
   </div>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
