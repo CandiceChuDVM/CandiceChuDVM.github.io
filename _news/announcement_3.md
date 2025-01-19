@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Watch Dr. Chu's Research Conversation Series talk [How I Streamline Academic Writing with AI and Digital Tools]((https://www.youtube.com/watch?v=CTTESpCK4yc)) on YouTube.
+Watch Dr. Chu's Research Conversation Series talk [How I Streamline Academic Writing with AI and Digital Tools](https://www.youtube.com/watch?v=CTTESpCK4yc) on YouTube.
