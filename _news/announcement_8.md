@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🖥️ *Video*: [I AM CVM - Dr. Candice Chu](https://www.facebook.com/share/v/1NLExhsBQq/) (VMBS Facebook)
+🖥️ __Video__: [I AM CVM - Dr. Candice Chu](https://www.facebook.com/share/v/1NLExhsBQq/) (VMBS Facebook)

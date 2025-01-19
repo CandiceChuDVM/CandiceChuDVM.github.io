@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📺 *Media coverage*: [CVM Brings Home Top Awards from Annual Pathology Meeting](https://vetmed.tamu.edu/news/internal-news/cvm-brings-home-top-awards-from-annual-pathology-meeting/) (VMBS News)
+📺 __Media coverage__: [CVM Brings Home Top Awards from Annual Pathology Meeting](https://vetmed.tamu.edu/news/internal-news/cvm-brings-home-top-awards-from-annual-pathology-meeting/) (VMBS News)

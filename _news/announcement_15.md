@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✈️ *Conference*: Dr. Chu is heading to the [VMX 2025 Veterinary Conference](https://navc.com/vmx-event/) to teach hematology and talk about AI. 
+✈️ __Conference__: Dr. Chu is heading to the [VMX 2025 Veterinary Conference](https://navc.com/vmx-event/) to teach hematology and talk about AI. 

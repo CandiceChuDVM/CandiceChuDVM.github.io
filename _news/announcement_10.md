@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 *Article*: [Top 3 Conditions Missed by Skipping Urinalysis](https://www.cliniciansbrief.com/article/urinalysis-proteinuria-glucosuria-fanconi-syndrome-subclinical-bacteriuria-dogs-cats) (Clinician's Brief)
+📝 __Article__: [Top 3 Conditions Missed by Skipping Urinalysis](https://www.cliniciansbrief.com/article/urinalysis-proteinuria-glucosuria-fanconi-syndrome-subclinical-bacteriuria-dogs-cats) (Clinician's Brief)
