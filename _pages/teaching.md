@@ -7,7 +7,15 @@ nav: true
 nav_order: 3
 ---
 
-<div class="projects">
+<div class="teaching">
+  <div>
+  	VTPB 927 Clinical Pathology - Acid base disturbance & Monovalent electorlytes
+  	VSCS 948 Innovation in Veterinary Medicine - AI Panel
+  	BIMS602 Foundations in Biomedical Graduate Education and Research - AI tools in research
+  	Anatomic Pathology Gross Rounds
+  	Clinical Pathology Cytology Rounds
+  	Clinical Pathology Seminar
+  </div>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
