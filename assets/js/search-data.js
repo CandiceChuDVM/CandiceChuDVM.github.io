@@ -403,7 +403,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-dr-chu-has-published-banish-the-pdf-hunting-blues-with-these-ai-and-digital-tools-on-nature-career-column",
+    },{id: "news-media-coverage-texas-a-amp-amp-m-researcher-explores-benefits-of-ai-in-veterinary-medicine-education-texas-a-amp-amp-m-today",
+          title: 'Media coverage: Texas A&amp;amp;amp;M Researcher Explores Benefits Of AI In Veterinary Medicine, Education...',
+          description: "",
+          section: "News",},{id: "news-dr-chu-has-published-banish-the-pdf-hunting-blues-with-these-ai-and-digital-tools-on-nature-career-column",
           title: 'Dr. Chu has published Banish the PDF-hunting blues with these AI and digital...',
           description: "",
           section: "News",},{id: "news-listen-to-the-a-c-v-p-podcast-for-a-conversation-with-dr-candice-chu-on-spotify-or-apple-podcasts",
