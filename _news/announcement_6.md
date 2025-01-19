@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📺 Media coverage: [CVM Students Win Awards at ACVP Annual Meeting](https://vetmed.tamu.edu/news/press-releases/cvm-students-win-awards-at-acvp-annual-meeting/) (VMBS News)
+📺 *Media coverage*: [CVM Students Win Awards at ACVP Annual Meeting](https://vetmed.tamu.edu/news/press-releases/cvm-students-win-awards-at-acvp-annual-meeting/) (VMBS News)

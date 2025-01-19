@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Chu Lab welcomes first graduate student - Dr. Yumi Chang! 👏
+Chu Lab welcomes first graduate student - *Dr. Yumi Chang*! 👏

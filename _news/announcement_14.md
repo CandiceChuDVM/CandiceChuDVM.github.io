@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Chu is offically back to Aggieland to establish the Chu Lab! 👏
+Dr. Chu is offically back to Aggieland to establish the *Chu Lab*! 👏
