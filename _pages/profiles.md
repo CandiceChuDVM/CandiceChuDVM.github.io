@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: members of Chu Lab
 nav: true
 nav_order: 5
