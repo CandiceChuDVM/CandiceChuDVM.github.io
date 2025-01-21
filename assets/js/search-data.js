@@ -474,6 +474,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-how-i-streamline-academic-writing-with-ai-and-digital-tools",
+          title: 'How I Streamline Academic Writing with AI and Digital Tools',
+          description: "Texas A&amp;M University Monthly Research Conversation Series",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/1_teaching/";
             },},{
         id: 'social-email',
         title: 'email',
