@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Digital Pathology
-description: Can AI Improve Veterinary Diagnostics and Academic Efficiency? (10/17/2024)
-img: assets/img/Digital_Pathology_Podcast.jpg
-redirect: https://open.spotify.com/episode/62rBaBkEJ0ouIRnu4yEZFV?si=Afa7zPckTve8uyc81aLQWQ
-importance: 2
+title: ACVP Podcast
+description: A conversation with Dr. Candice Chu (12/7/2024)
+img: assets/img/ACVP_Podcast.jpg
+redirect: https://open.spotify.com/episode/7v5XWtvj1MzIUfoN3Nqvg1?si=PT4HCTdzQMGFphSt1J8gDw
+importance: 1
 category: Podcast
 ---
 
