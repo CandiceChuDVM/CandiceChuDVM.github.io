@@ -8,7 +8,7 @@ nav_order: 3
 display_categories: [YouTube, Podcast]
 ---
 
-<div class="teaching">
+<div class="course">
   <div>
     <h3>Fall 2024:</h3>
     <ul>
@@ -27,6 +27,7 @@ display_categories: [YouTube, Podcast]
     </ul>
   </div>
 </div>
+<div class="teaching">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
