@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How to take cytology pictures using your smartphone?
-description: Thumbs up if you like it 👍
-img: assets/img/4_smartphone.jpg
-redirect: https://youtu.be/IxWxRXQUJyQ?si=8cdGhTYMygl7hFfd
-importance: 6
+title: How to Build Your Own ChatGPT?
+description: Texas A&M Center for Teaching Excellence (CTE) Fall 2024 Hear from Peers Series (10/16/2024)
+img: assets/img/8_CTE
+redirect: https://youtu.be/yBnNP7e2hFo?si=VPxZjEqNMFX_oiPP
+importance: 2
 category: YouTube
 ---
 

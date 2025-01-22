@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Google NotebookLM Turned My CV into a Podcast
-description: I transformed my CV and research into an engaging podcast using Google’s free NotebookLM tool! With the new “Audio Overviews” feature, you can instantly convert any text document into a two-person podcast dialogue.
+description: I transformed my CV and research into an engaging podcast using Google’s free NotebookLM tool! With the new “Audio Overviews” feature, you can instantly convert any text document into a two-person podcast dialogue. (9/14/2024)
 img: assets/img/2_Google_NotebookLM.jpg
 redirect: https://youtu.be/jOZfcCKbNO0?si=bXe439YjSLapmOHM
-importance: 2
+importance: 4
 category: YouTube
 ---
 

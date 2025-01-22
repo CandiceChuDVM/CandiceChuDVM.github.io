@@ -4,7 +4,7 @@ title: Grad School 101 - Keys to Successful Scientific Presentations
 description: In this video, I share practical advice on preparing a compelling 15-minute scientific presentation. Using my own award-winning presentation, which earned the ASVCP Young Investigator Award, as an example, I highlight key strategies for crafting and delivering an impactful talk.
 img: assets/img/5_scientific_presentation.jpg
 redirect: https://youtu.be/qnr1k-MSWiM?si=hC2DtUtEWw3q_SXZ
-importance: 5
+importance: 7
 category: YouTube
 ---
 

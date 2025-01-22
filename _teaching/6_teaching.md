@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How to take cytology pictures using your smartphone?
-description: Thumbs up if you like it 👍
-img: assets/img/4_smartphone.jpg
-redirect: https://youtu.be/IxWxRXQUJyQ?si=8cdGhTYMygl7hFfd
-importance: 6
+title: Grad School 101 - Design a Great Slide Presentation
+description: In this talk, I share practical tips and strategies for designing an engaging and effective slide presentation. 
+img: assets/img/6_design_presentation.jpg
+redirect: https://youtu.be/3MZSby1p2ls?si=0L9o8Wq6pBzU8s0b
+importance: 8
 category: YouTube
 ---
 

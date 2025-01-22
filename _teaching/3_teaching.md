@@ -4,7 +4,7 @@ title: Approach to Veterinary Cytology
 description: Let's learn the basic concepts of veterinary cytology in 40 mins!
 img: assets/img/3_approach_cytology.jpg
 redirect: https://youtu.be/FbMQkEqQ8ZQ?si=ngP13j7g6cQJIH7z
-importance: 3
+importance: 5
 category: YouTube
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How to take cytology pictures using your smartphone?
-description: Thumbs up if you like it 👍
-img: assets/img/4_smartphone.jpg
-redirect: https://youtu.be/IxWxRXQUJyQ?si=8cdGhTYMygl7hFfd
-importance: 6
+title: How to analyze RNA-Seq data? 
+description: Find differentially expressed genes in your research.No RNA-Seq background is needed.
+img: assets/img/9_RNA
+redirect: https://youtu.be/xh_wpWj0AzM?si=2TkDybDr9w89ktZ0
+importance: 9
 category: YouTube
 ---
 

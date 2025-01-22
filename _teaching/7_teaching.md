@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How to take cytology pictures using your smartphone?
-description: Thumbs up if you like it 👍
-img: assets/img/4_smartphone.jpg
-redirect: https://youtu.be/IxWxRXQUJyQ?si=8cdGhTYMygl7hFfd
-importance: 6
+title: Can AI Improve Veterinary Diagnostics and Academic Efficiency?
+description: Dr. Aleksandra Zuraw and I discussed how AI tools are making diagnostics more efficient while navigating the ethical considerations that come with using AI in clinical practice and education. (10/16/2024)
+img: assets/img/7_digital_pathology
+redirect: https://youtu.be/-5gwIq6SflA?si=RkYjVB_3lrA1LEGf
+importance: 3
 category: YouTube
 ---
 
