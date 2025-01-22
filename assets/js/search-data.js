@@ -474,6 +474,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-acvp-podcast",
+          title: 'ACVP Podcast',
+          description: "A conversation with Dr. Candice Chu (12/7/2024)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/10_teaching/";
+            },},{id: "teaching-clinician-s-brief",
+          title: 'Clinician’s Brief',
+          description: "Top 3 Conditions Missed by Skipping Urinalysis (1/15/2024)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/11_teaching/";
             },},{id: "teaching-ai",
           title: 'AI',
           description: "How I Streamline Academic Writing with AI and Digital Tools (11/12/2024)",
