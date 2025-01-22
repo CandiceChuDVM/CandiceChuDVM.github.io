@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [YouTube, Podcast]
 ---
+
 <div class="projects">
   <div class="course">
     <div>
