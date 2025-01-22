@@ -481,7 +481,7 @@ ninja.data = [{
               window.location.href = "/teaching/1_teaching/";
             },},{id: "teaching-google-notebooklm-turned-my-cv-into-a-podcast",
           title: 'Google NotebookLM Turned My CV into a Podcast',
-          description: "I transformed my CV and research into an engaging podcast using Google’s free NotebookLM tool! With the new “Audio Overviews” feature, you can instantly convert any text document into a two-person podcast dialogue.",
+          description: "I transformed my CV and research into an engaging podcast using Google’s free NotebookLM tool! With the new “Audio Overviews” feature, you can instantly convert any text document into a two-person podcast dialogue. (9/14/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_teaching/";
             },},{id: "teaching-approach-to-veterinary-cytology",
@@ -499,6 +499,26 @@ ninja.data = [{
           description: "In this video, I share practical advice on preparing a compelling 15-minute scientific presentation. Using my own award-winning presentation, which earned the ASVCP Young Investigator Award, as an example, I highlight key strategies for crafting and delivering an impactful talk.",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/5_teaching/";
+            },},{id: "teaching-grad-school-101-design-a-great-slide-presentation",
+          title: 'Grad School 101 - Design a Great Slide Presentation',
+          description: "In this talk, I share practical tips and strategies for designing an engaging and effective slide presentation.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/6_teaching/";
+            },},{id: "teaching-can-ai-improve-veterinary-diagnostics-and-academic-efficiency",
+          title: 'Can AI Improve Veterinary Diagnostics and Academic Efficiency?',
+          description: "Dr. Aleksandra Zuraw and I discussed how AI tools are making diagnostics more efficient while navigating the ethical considerations that come with using AI in clinical practice and education. (10/16/2024)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/7_teaching/";
+            },},{id: "teaching-how-to-build-your-own-chatgpt",
+          title: 'How to Build Your Own ChatGPT?',
+          description: "Texas A&amp;M Center for Teaching Excellence (CTE) Fall 2024 Hear from Peers Series (10/16/2024)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/8_teaching/";
+            },},{id: "teaching-how-to-analyze-rna-seq-data",
+          title: 'How to analyze RNA-Seq data?',
+          description: "Find differentially expressed genes in your research.No RNA-Seq background is needed.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/9_teaching/";
             },},{
         id: 'social-email',
         title: 'email',
