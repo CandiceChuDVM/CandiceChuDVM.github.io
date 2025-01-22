@@ -494,6 +494,11 @@ ninja.data = [{
           description: "Thumbs up if you like it 👍",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/4_teaching/";
+            },},{id: "teaching-grad-school-101-keys-to-successful-scientific-presentations",
+          title: 'Grad School 101 - Keys to Successful Scientific Presentations',
+          description: "In this video, I share practical advice on preparing a compelling 15-minute scientific presentation. Using my own award-winning presentation, which earned the ASVCP Young Investigator Award, as an example, I highlight key strategies for crafting and delivering an impactful talk.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/5_teaching/";
             },},{
         id: 'social-email',
         title: 'email',
