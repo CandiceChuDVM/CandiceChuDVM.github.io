@@ -406,7 +406,7 @@ ninja.data = [{
           title: '📺 Media coverage: Texas A&amp;amp;amp;M Researcher Explores Benefits Of AI In Veterinary Medicine,...',
           description: "",
           section: "News",},{id: "news-article-canine-round-cell-tumor-cytology-vet-focus",
-          title: '📝 Article: Canine round cell tumor cytology (Vet Focus)',
+          title: '📝 Article: Canine Round Cell Tumor Cytology (Vet Focus)',
           description: "",
           section: "News",},{id: "news-on-demand-webinar-how-i-streamline-academic-writing-with-ai-and-digital-tools-acvim",
           title: '🌐 On-demand webinar: How I Streamline Academic Writing with AI and Digital Tools...',
