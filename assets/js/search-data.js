@@ -479,6 +479,11 @@ ninja.data = [{
           description: "Texas A&amp;M University Monthly Research Conversation Series (11/12/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
+            },},{id: "teaching-google-notebooklm-turned-my-cv-into-a-podcast",
+          title: 'Google NotebookLM Turned My CV into a Podcast',
+          description: "I transformed my CV and research into an engaging podcast using Google’s free NotebookLM tool! With the new “Audio Overviews” feature, you can instantly convert any text document into a two-person podcast dialogue.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2_teaching/";
             },},{
         id: 'social-email',
         title: 'email',
