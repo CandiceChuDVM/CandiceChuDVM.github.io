@@ -36,7 +36,7 @@ display_categories: [YouTube, Podcast]
   </a>
   {% assign categorized_projects = site.teaching | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each teaching -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
@@ -53,12 +53,13 @@ display_categories: [YouTube, Podcast]
   </div>
   {% endif %}
   {% endfor %}
+  <br>
 
 {% else %}
 
-<!-- Display projects without categories -->
+<!-- Display teaching without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.teaching | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
