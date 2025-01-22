@@ -489,6 +489,11 @@ ninja.data = [{
           description: "Let&#39;s learn the basic concepts of veterinary cytology in 40 mins!",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/3_teaching/";
+            },},{id: "teaching-how-to-take-cytology-pictures-using-your-smartphone",
+          title: 'How to take cytology pictures using your smartphone?',
+          description: "Thumbs up if you like it 👍",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/4_teaching/";
             },},{
         id: 'social-email',
         title: 'email',
