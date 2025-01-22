@@ -521,7 +521,7 @@ ninja.data = [{
               window.location.href = "/teaching/7_teaching/";
             },},{id: "teaching-ai",
           title: 'AI',
-          description: "ow to Build Your Own ChatGPT? 10/16/2024)",
+          description: "How to Build Your Own ChatGPT? 10/16/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/8_teaching/";
             },},{id: "teaching-bioinformatics",
