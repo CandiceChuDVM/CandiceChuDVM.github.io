@@ -55,7 +55,6 @@ display_categories: [YouTube, Podcast]
   <br>
   {% endfor %}
 
-
 {% else %}
 
 <!-- Display teaching without categories -->
