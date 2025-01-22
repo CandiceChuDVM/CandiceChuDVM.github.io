@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [YouTube, Podcast]
 ---
-<div class="teaching">
+<div class="projects">
   <div class="course">
     <div>
       <h3>Fall 2024:</h3>
