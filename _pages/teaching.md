@@ -52,8 +52,9 @@ display_categories: [YouTube, Podcast]
     {% endfor %}
   </div>
   {% endif %}
-  {% endfor %}
   <br>
+  {% endfor %}
+
 
 {% else %}
 
