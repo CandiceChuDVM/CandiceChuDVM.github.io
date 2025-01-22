@@ -506,7 +506,7 @@ ninja.data = [{
               window.location.href = "/teaching/6_teaching/";
             },},{id: "teaching-can-ai-improve-veterinary-diagnostics-and-academic-efficiency",
           title: 'Can AI Improve Veterinary Diagnostics and Academic Efficiency?',
-          description: "Dr. Aleksandra Zuraw and I discussed how AI tools are making diagnostics more efficient while navigating the ethical considerations that come with using AI in clinical practice and education. (10/16/2024)",
+          description: "Dr. Aleksandra Zuraw and I discussed how AI tools are making diagnostics more efficient while navigating the ethical considerations that come with using AI in clinical practice and education. (10/17/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/7_teaching/";
             },},{id: "teaching-how-to-build-your-own-chatgpt",
