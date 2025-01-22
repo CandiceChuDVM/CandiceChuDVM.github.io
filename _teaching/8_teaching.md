@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AI
-description: ow to Build Your Own ChatGPT? 10/16/2024)
-img: assets/img/8_CTE
+description: How to Build Your Own ChatGPT? 10/16/2024)
+img: assets/img/8_CTE.jpg
 redirect: https://youtu.be/yBnNP7e2hFo?si=VPxZjEqNMFX_oiPP
 importance: 2
 category: YouTube

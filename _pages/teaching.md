@@ -7,27 +7,26 @@ nav: true
 nav_order: 3
 display_categories: [YouTube, Podcast]
 ---
-
-<div class="course">
-  <div>
-    <h3>Fall 2024:</h3>
-    <ul>
-      <li>VTPB 927 Clinical Pathology - Acid base disturbance & Monovalent electrolytes</li>
-      <li>VSCS 948 Innovation in Veterinary Medicine - AI Panel</li>
-      <li>BIMS602 Foundations in Biomedical Graduate Education and Research - AI tools in research</li>
-      <li>Anatomic Pathology Gross Rounds</li>
-      <li>Clinical Pathology Cytology Rounds</li>
-    </ul>
-  </div>
-  <div>
-    <h3>Spring 2025:</h3>
-    <ul>
-      <li>Clinical Pathology Cytology Rounds</li>
-      <li>Clinical Pathology Seminar</li>
-    </ul>
-  </div>
-</div>
 <div class="teaching">
+  <div class="course">
+    <div>
+      <h3>Fall 2024:</h3>
+      <ul>
+        <li>VTPB 927 Clinical Pathology - Acid base disturbance & Monovalent electrolytes</li>
+        <li>VSCS 948 Innovation in Veterinary Medicine - AI Panel</li>
+        <li>BIMS602 Foundations in Biomedical Graduate Education and Research - AI tools in research</li>
+        <li>Anatomic Pathology Gross Rounds</li>
+        <li>Clinical Pathology Cytology Rounds</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Spring 2025:</h3>
+      <ul>
+        <li>Clinical Pathology Cytology Rounds</li>
+        <li>Clinical Pathology Seminar</li>
+      </ul>
+    </div>
+  </div>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
