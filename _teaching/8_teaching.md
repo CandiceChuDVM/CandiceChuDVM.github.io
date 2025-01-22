@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to Build Your Own ChatGPT?
-description: Texas A&M Center for Teaching Excellence (CTE) Fall 2024 Hear from Peers Series (10/16/2024)
+title: AI
+description: ow to Build Your Own ChatGPT? 10/16/2024)
 img: assets/img/8_CTE
 redirect: https://youtu.be/yBnNP7e2hFo?si=VPxZjEqNMFX_oiPP
 importance: 2

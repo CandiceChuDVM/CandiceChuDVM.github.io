@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to analyze RNA-Seq data?
-description: Find differentially expressed genes in your research.No RNA-Seq background is needed.
+title: Bioinformatics
+description: How to analyze RNA-Seq data?
 img: assets/img/9_RNA
 redirect: https://youtu.be/xh_wpWj0AzM?si=2TkDybDr9w89ktZ0
 importance: 9

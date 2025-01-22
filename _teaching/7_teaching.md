@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Can AI Improve Veterinary Diagnostics and Academic Efficiency?
-description: Dr. Aleksandra Zuraw and I discussed how AI tools are making diagnostics more efficient while navigating the ethical considerations that come with using AI in clinical practice and education. (10/17/2024)
+title: Digital Pathology
+description: Can AI Improve Veterinary Diagnostics and Academic Efficiency? (10/17/2024)
 img: assets/img/7_digital_pathology
 redirect: https://open.spotify.com/episode/62rBaBkEJ0ouIRnu4yEZFV?si=Afa7zPckTve8uyc81aLQWQ
 importance: 2

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grad School 101 - Design a Great Slide Presentation
-description: In this talk, I share practical tips and strategies for designing an engaging and effective slide presentation.
+title: Grad School 101
+description: Design a Great Slide Presentation
 img: assets/img/6_design_presentation.jpg
 redirect: https://youtu.be/3MZSby1p2ls?si=0L9o8Wq6pBzU8s0b
 importance: 8
