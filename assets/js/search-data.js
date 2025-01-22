@@ -476,7 +476,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teaching-how-i-streamline-academic-writing-with-ai-and-digital-tools",
           title: 'How I Streamline Academic Writing with AI and Digital Tools',
-          description: "Texas A&amp;M University Monthly Research Conversation Series",
+          description: "Texas A&amp;M University Monthly Research Conversation Series (11/12/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
             },},{
