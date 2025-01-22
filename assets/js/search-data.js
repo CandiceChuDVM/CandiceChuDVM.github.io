@@ -474,49 +474,49 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-how-i-streamline-academic-writing-with-ai-and-digital-tools",
-          title: 'How I Streamline Academic Writing with AI and Digital Tools',
-          description: "Texas A&amp;M University Monthly Research Conversation Series (11/12/2024)",
+            },},{id: "teaching-ai",
+          title: 'AI',
+          description: "How I Streamline Academic Writing with AI and Digital Tools (11/12/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
-            },},{id: "teaching-google-notebooklm-turned-my-cv-into-a-podcast",
-          title: 'Google NotebookLM Turned My CV into a Podcast',
-          description: "I transformed my CV and research into an engaging podcast using Google’s free NotebookLM tool! With the new “Audio Overviews” feature, you can instantly convert any text document into a two-person podcast dialogue. (9/14/2024)",
+            },},{id: "teaching-ai",
+          title: 'AI',
+          description: "Google NotebookLM Turned My CV into a Podcast (9/14/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_teaching/";
-            },},{id: "teaching-approach-to-veterinary-cytology",
-          title: 'Approach to Veterinary Cytology',
-          description: "Let&#39;s learn the basic concepts of veterinary cytology in 40 mins!",
+            },},{id: "teaching-cytology",
+          title: 'Cytology',
+          description: "Approach to Veterinary Cytology",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/3_teaching/";
-            },},{id: "teaching-how-to-take-cytology-pictures-using-your-smartphone",
-          title: 'How to take cytology pictures using your smartphone?',
-          description: "Thumbs up if you like it 👍",
+            },},{id: "teaching-cytology",
+          title: 'Cytology',
+          description: "How to take cytology pictures using your smartphone?",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/4_teaching/";
-            },},{id: "teaching-grad-school-101-keys-to-successful-scientific-presentations",
-          title: 'Grad School 101 - Keys to Successful Scientific Presentations',
-          description: "In this video, I share practical advice on preparing a compelling 15-minute scientific presentation. Using my own award-winning presentation, which earned the ASVCP Young Investigator Award, as an example, I highlight key strategies for crafting and delivering an impactful talk.",
+            },},{id: "teaching-grad-school-101",
+          title: 'Grad School 101',
+          description: "Keys to Successful Scientific Presentations",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/5_teaching/";
-            },},{id: "teaching-grad-school-101-design-a-great-slide-presentation",
-          title: 'Grad School 101 - Design a Great Slide Presentation',
-          description: "In this talk, I share practical tips and strategies for designing an engaging and effective slide presentation.",
+            },},{id: "teaching-grad-school-101",
+          title: 'Grad School 101',
+          description: "Design a Great Slide Presentation",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/6_teaching/";
-            },},{id: "teaching-can-ai-improve-veterinary-diagnostics-and-academic-efficiency",
-          title: 'Can AI Improve Veterinary Diagnostics and Academic Efficiency?',
-          description: "Dr. Aleksandra Zuraw and I discussed how AI tools are making diagnostics more efficient while navigating the ethical considerations that come with using AI in clinical practice and education. (10/17/2024)",
+            },},{id: "teaching-digital-pathology",
+          title: 'Digital Pathology',
+          description: "Can AI Improve Veterinary Diagnostics and Academic Efficiency? (10/17/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/7_teaching/";
-            },},{id: "teaching-how-to-build-your-own-chatgpt",
-          title: 'How to Build Your Own ChatGPT?',
-          description: "Texas A&amp;M Center for Teaching Excellence (CTE) Fall 2024 Hear from Peers Series (10/16/2024)",
+            },},{id: "teaching-ai",
+          title: 'AI',
+          description: "ow to Build Your Own ChatGPT? 10/16/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/8_teaching/";
-            },},{id: "teaching-how-to-analyze-rna-seq-data",
-          title: 'How to analyze RNA-Seq data?',
-          description: "Find differentially expressed genes in your research.No RNA-Seq background is needed.",
+            },},{id: "teaching-bioinformatics",
+          title: 'Bioinformatics',
+          description: "How to analyze RNA-Seq data?",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/9_teaching/";
             },},{
