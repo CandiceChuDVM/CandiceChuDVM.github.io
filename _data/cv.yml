@@ -5,6 +5,8 @@
       value: cchu [at] cvm [dot] tamu [dot] edu
     - name: Office
       value: 284 VRBA, TAMU
+    - name: Address
+      value: Mail stop 4467
 - title: Education
   type: time_table
   contents:
