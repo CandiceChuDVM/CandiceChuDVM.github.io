@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **7th Annual VMBS Teaching Showcase Keynote**: Generative AI in Veterinary Education
+**7th Annual VMBS Teaching Showcase Keynote**: Generative AI in Veterinary Education

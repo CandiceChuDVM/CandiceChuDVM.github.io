@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **ACVP Webinar**: ChatGPT for Veterinary Professionals
+**ACVP Webinar**: ChatGPT for Veterinary Professionals

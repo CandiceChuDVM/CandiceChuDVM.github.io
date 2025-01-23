@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **TAMU CVM Research Conversation Series**: Streamlining Academic Writing with AI and Digital Tools for Enhacing Productivity invited by Dr. Michael Criscitiello @ Texas A&M University
+**TAMU CVM Research Conversation Series**: Streamlining Academic Writing with AI and Digital Tools for Enhacing Productivity invited by Dr. Michael Criscitiello @ Texas A&M University
