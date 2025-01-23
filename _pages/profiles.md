@@ -8,7 +8,7 @@ and mention my name in your application. Meanwhile, kindly fill out this
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSda8VR-FEFbseoXFtjCj6U6vWOKNZq8_5Dss_p7o4mzxRzaFQ/viewform?usp=header" target="_blank">Google form</a> 
 to share more about yourself.
 nav: true
-nav_order: 5
+nav_order: 6
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
