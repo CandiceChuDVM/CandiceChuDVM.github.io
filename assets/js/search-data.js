@@ -434,6 +434,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-microrna-in-feline-ckd",
+          title: 'MicroRNA in Feline CKD',
+          description: "EveryCat Health Foundation CaP-K22-008 ($23,000.00)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project_research_catmicrorna/";
             },},{id: "projects-what-s-your-diagnosis-wyd-database",
           title: 'What’s Your Diagnosis (WYD) Database',
           description: "This 📚WYD Database is a free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.",
