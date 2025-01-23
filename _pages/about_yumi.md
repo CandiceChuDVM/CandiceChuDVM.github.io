@@ -8,7 +8,9 @@ Hi! I’m Yumi! My name might sound Japanese, but it’s actually a fun twist on
 
 ### Do you want to join our lab?
 
+
 #### To prospective students:
+
 
 1. Please apply through the [BIMS Graduate Program](https://vetmed.tamu.edu/bims-graduate-program/) and mention Dr. Candice Chu in your application. 
 
