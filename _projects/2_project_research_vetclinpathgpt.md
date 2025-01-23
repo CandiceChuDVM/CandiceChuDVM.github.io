@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
+title: Application of VetClinPathGPT in veterinary education
+description: 
+img: assets/img/2_project_research_vtpb927.jpg
+importance: 2
 category: Research
-related_publications: true
+redirect: false
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
