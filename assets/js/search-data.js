@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-people",
+          title: "People",
+          description: "Prospective students, please apply through the BIMS Graduate Program and mention my name in your application. Meanwhile, kindly fill out this Google form to share more about yourself.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "Click on the PDF icon for my complete CV 👉",
