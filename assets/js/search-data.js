@@ -461,7 +461,7 @@ ninja.data = [{
               window.location.href = "/teaching/11_teaching/";
             },},{id: "teaching-how-i-streamline-academic-writing-with-ai-and-digital-tools",
           title: 'How I Streamline Academic Writing with AI and Digital Tools',
-          description: "Free to all ACVIM Candidates and Diplomates (11/2024)",
+          description: "ACVIM - Free to all ACVIM Candidates and Diplomates (11/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/12_teaching_ondemand_acvim/";
             },},{id: "teaching-chatgpt-in-veterinary-medicine-how-artificial-intelligence-can-benefit-you",
@@ -471,7 +471,7 @@ ninja.data = [{
               window.location.href = "/teaching/13_teaching_ondemand_VIN/";
             },},{id: "teaching-all-you-need-to-know-about-round-cell-tumor-cytology",
           title: 'All You Need to Know About Round Cell Tumor Cytology',
-          description: "$50.00 (2/6/2024)",
+          description: "VETgirl - $50.00 (2/6/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/13_teaching_ondemand_vetgirl/";
             },},{id: "teaching-streamlining-academic-writing-with-ai-and-digital-tools-for-enhacing-productivity",
