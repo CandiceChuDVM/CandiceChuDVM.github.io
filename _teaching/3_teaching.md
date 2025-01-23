@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cytology
-description: Approach to Veterinary Cytology
+title: Approach to Veterinary Cytology
+description: Cytology
 img: assets/img/3_approach_cytology.jpg
 redirect: https://youtu.be/FbMQkEqQ8ZQ?si=ngP13j7g6cQJIH7z
 importance: 5

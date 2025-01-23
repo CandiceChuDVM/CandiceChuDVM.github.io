@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI
-description: Google NotebookLM Turned My CV into a Podcast (9/14/2024)
+title: Google NotebookLM Turned My CV into a Podcast
+description: AI (9/14/2024)
 img: assets/img/2_Google_NotebookLM.jpg
 redirect: https://youtu.be/jOZfcCKbNO0?si=bXe439YjSLapmOHM
 importance: 4

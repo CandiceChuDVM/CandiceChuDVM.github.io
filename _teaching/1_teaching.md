@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI
-description: How I Streamline Academic Writing with AI and Digital Tools (11/12/2024)
+description: Streamlining Academic Writing with AI and Digital Tools for Enhacing Productivity (11/12/2024)
 img: assets/img/Texas_A&M_University_Monthly_Research_Conversation_Series.jpg
 redirect: https://www.youtube.com/watch?v=CTTESpCK4yc&t=2184s
 importance: 1

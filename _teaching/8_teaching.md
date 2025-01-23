@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI
-description: How to Build Your Own ChatGPT? 10/16/2024)
+title: How to Build Your Own ChatGPT? 
+description: AI - TAMU Center for Teaching Excellence (10/16/2024)
 img: assets/img/8_CTE.jpg
 redirect: https://youtu.be/yBnNP7e2hFo?si=VPxZjEqNMFX_oiPP
 importance: 2

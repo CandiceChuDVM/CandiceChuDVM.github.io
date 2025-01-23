@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bioinformatics
-description: How to analyze RNA-Seq data?
+title: How to Analyze RNA-Seq Data?
+description: Bioinformatics
 img: assets/img/9_RNA.jpg
 redirect: https://youtu.be/xh_wpWj0AzM?si=2TkDybDr9w89ktZ0
 importance: 9

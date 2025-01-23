@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Top 3 Conditions Missed by Skipping Urinalysis 
-description: Clinician’s Brief (1/15/2024)
-img: assets/img/Clinicians_Brief_Podcast.jpg
-redirect: https://open.spotify.com/episode/0dmfvHhMHShc4Ndv3cKtL2?si=uvfjrcO2SVmAd6Wshyr4ww
-importance: 3
-category: Podcast
+title: All You Need to Know About Round Cell Tumor Cytology
+description: $50.00 (2/6/2024)
+img: assets/img/13_teaching_ondemand_vetgirl.jpg
+redirect: https://vetgirlontherun.com/webinars/february-6-2024-all-you-need-to-know-about-round-cell-tumor-cytology/
+importance: 2
+category: On Demand
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grad School 101
-description: Keys to Successful Scientific Presentations
+title: Keys to Successful Scientific Presentations
+description: Grad School 101
 img: assets/img/5_scientific_presentation.jpg
 redirect: https://youtu.be/qnr1k-MSWiM?si=hC2DtUtEWw3q_SXZ
 importance: 7

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cytology
-description: How to take cytology pictures using your smartphone?
+title: How to Take Cytology Pictures Using Your Smartphone?
+description: Cytology
 img: assets/img/4_smartphone.jpg
 redirect: https://youtu.be/IxWxRXQUJyQ?si=8cdGhTYMygl7hFfd
 importance: 6

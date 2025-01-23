@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Top 3 Conditions Missed by Skipping Urinalysis 
-description: Clinician’s Brief (1/15/2024)
-img: assets/img/Clinicians_Brief_Podcast.jpg
-redirect: https://open.spotify.com/episode/0dmfvHhMHShc4Ndv3cKtL2?si=uvfjrcO2SVmAd6Wshyr4ww
-importance: 3
-category: Podcast
+title: How I Streamline Academic Writing with AI and Digital Tools
+description: Free to all ACVIM Candidates and Diplomates (11/2024)
+img: assets/img/12_acvim.jpg
+redirect: https://www.acvim.org/education/course-catalog/how-i-streamline-academic-writing-with-ai-and-digital-tools#speaker
+importance: 1
+category: On Demand
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grad School 101
-description: Design a Great Slide Presentation
+title: Design a Great Slide Presentation
+description: Grad School 101
 img: assets/img/6_design_presentation.jpg
 redirect: https://youtu.be/3MZSby1p2ls?si=0L9o8Wq6pBzU8s0b
 importance: 8

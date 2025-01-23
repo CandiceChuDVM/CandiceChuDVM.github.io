@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ACVP Podcast
-description: A conversation with Dr. Candice Chu (12/7/2024)
+title: A conversation with Dr. Candice Chu
+description: ACVP Podcast (12/7/2024)
 img: assets/img/ACVP_Podcast.jpg
 redirect: https://open.spotify.com/episode/7v5XWtvj1MzIUfoN3Nqvg1?si=PT4HCTdzQMGFphSt1J8gDw
 importance: 1
