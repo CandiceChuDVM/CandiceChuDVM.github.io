@@ -474,59 +474,69 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-acvp-podcast",
-          title: 'ACVP Podcast',
-          description: "A conversation with Dr. Candice Chu (12/7/2024)",
+            },},{id: "teaching-a-conversation-with-dr-candice-chu",
+          title: 'A conversation with Dr. Candice Chu',
+          description: "ACVP Podcast (12/7/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/10_teaching/";
-            },},{id: "teaching-clinician-s-brief",
-          title: 'Clinician’s Brief',
-          description: "Top 3 Conditions Missed by Skipping Urinalysis (1/15/2024)",
+            },},{id: "teaching-top-3-conditions-missed-by-skipping-urinalysis",
+          title: 'Top 3 Conditions Missed by Skipping Urinalysis',
+          description: "Clinician’s Brief (1/15/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/11_teaching/";
+            },},{id: "teaching-how-i-streamline-academic-writing-with-ai-and-digital-tools",
+          title: 'How I Streamline Academic Writing with AI and Digital Tools',
+          description: "Free to all ACVIM Candidates and Diplomates (11/2024)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/12_teaching_ondemand_acvim/";
+            },},{id: "teaching-all-you-need-to-know-about-round-cell-tumor-cytology",
+          title: 'All You Need to Know About Round Cell Tumor Cytology',
+          description: "$50.00 (2/6/2024)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/13_teaching_ondemand_vetgirl/";
             },},{id: "teaching-ai",
           title: 'AI',
-          description: "How I Streamline Academic Writing with AI and Digital Tools (11/12/2024)",
+          description: "Streamlining Academic Writing with AI and Digital Tools for Enhacing Productivity (11/12/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
-            },},{id: "teaching-ai",
-          title: 'AI',
-          description: "Google NotebookLM Turned My CV into a Podcast (9/14/2024)",
+            },},{id: "teaching-google-notebooklm-turned-my-cv-into-a-podcast",
+          title: 'Google NotebookLM Turned My CV into a Podcast',
+          description: "AI (9/14/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_teaching/";
-            },},{id: "teaching-cytology",
-          title: 'Cytology',
-          description: "Approach to Veterinary Cytology",
+            },},{id: "teaching-approach-to-veterinary-cytology",
+          title: 'Approach to Veterinary Cytology',
+          description: "Cytology",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/3_teaching/";
-            },},{id: "teaching-cytology",
-          title: 'Cytology',
-          description: "How to take cytology pictures using your smartphone?",
+            },},{id: "teaching-how-to-take-cytology-pictures-using-your-smartphone",
+          title: 'How to Take Cytology Pictures Using Your Smartphone?',
+          description: "Cytology",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/4_teaching/";
-            },},{id: "teaching-grad-school-101",
-          title: 'Grad School 101',
-          description: "Keys to Successful Scientific Presentations",
+            },},{id: "teaching-keys-to-successful-scientific-presentations",
+          title: 'Keys to Successful Scientific Presentations',
+          description: "Grad School 101",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/5_teaching/";
-            },},{id: "teaching-grad-school-101",
-          title: 'Grad School 101',
-          description: "Design a Great Slide Presentation",
+            },},{id: "teaching-design-a-great-slide-presentation",
+          title: 'Design a Great Slide Presentation',
+          description: "Grad School 101",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/6_teaching/";
-            },},{id: "teaching-digital-pathology",
-          title: 'Digital Pathology',
-          description: "Can AI Improve Veterinary Diagnostics and Academic Efficiency? (10/17/2024)",
+            },},{id: "teaching-can-ai-improve-veterinary-diagnostics-and-academic-efficiency",
+          title: 'Can AI Improve Veterinary Diagnostics and Academic Efficiency?',
+          description: "Digital Pathology (10/17/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/7_teaching/";
-            },},{id: "teaching-ai",
-          title: 'AI',
-          description: "How to Build Your Own ChatGPT? 10/16/2024)",
+            },},{id: "teaching-how-to-build-your-own-chatgpt",
+          title: 'How to Build Your Own ChatGPT?',
+          description: "AI - TAMU Center for Teaching Excellence (10/16/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/8_teaching/";
-            },},{id: "teaching-bioinformatics",
-          title: 'Bioinformatics',
-          description: "How to analyze RNA-Seq data?",
+            },},{id: "teaching-how-to-analyze-rna-seq-data",
+          title: 'How to Analyze RNA-Seq Data?',
+          description: "Bioinformatics",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/9_teaching/";
             },},{
