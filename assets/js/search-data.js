@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "Prospective students, please apply through the BIMS Graduate Program and mention my name in your application. Meanwhile, please fill out this Google form to let me know more about yourself.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
