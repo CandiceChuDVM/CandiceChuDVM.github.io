@@ -5,7 +5,7 @@ description: A free veterinary clinical pathology AI tutor
 img: assets/img/1_project_vetclinpathgpt.jpg
 redirect: https://chatgpt.com/g/g-rfB5cBZ6X-vetclinpathgpt
 importance: 1
-category: Tools
+category: Education Tools
 ---
 
 Every project has a beautiful feature showcase page.

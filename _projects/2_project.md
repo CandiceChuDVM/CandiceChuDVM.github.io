@@ -5,7 +5,7 @@ description: This 📚WYD Database is a free, searchable, easy-to-use platform t
 img: assets/img/2_project_WYD.jpg
 redirect: https://vetclinpath.notion.site/f5cce72fe6524c4b8511162f0f2fe6ac?v=ef3da7714cf94f9ab15822e961eb5850&pvs=4
 importance: 2
-category: Tools
+category: Education Tools
 ---
 
 Every project has a beautiful feature showcase page.
