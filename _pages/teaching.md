@@ -5,7 +5,7 @@ title: Teaching
 description: Oh, I ❤️ to teach!
 nav: true
 nav_order: 3
-display_categories: [YouTube, Podcast]
+display_categories: [On Demand, YouTube, Podcast]
 ---
 
 <div class="projects">
