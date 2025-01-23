@@ -2,11 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Prospective students, please apply through the 
-    <a href="https://vetmed.tamu.edu/bims-graduate-program/">BIMS Graduate Program</a> 
-    and mention my name in your application. Meanwhile, please fill out this 
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSda8VR-FEFbseoXFtjCj6U6vWOKNZq8_5Dss_p7o4mzxRzaFQ/viewform?usp=header">Google form</a> 
-    to let me know more about yourself.
+description: 
 nav: true
 nav_order: 6
 
@@ -21,3 +17,9 @@ profiles:
       <p>BIMS Master's student</p>
       <p>Yumi Chang, DVM</p>
 ---
+
+Prospective students, please apply through the 
+[BIMS Graduate Program](https://vetmed.tamu.edu/bims-graduate-program/) 
+and mention my name in your application. Meanwhile, kindly fill out this 
+[Google form](https://docs.google.com/forms/d/e/1FAIpQLSda8VR-FEFbseoXFtjCj6U6vWOKNZq8_5Dss_p7o4mzxRzaFQ/viewform?usp=header) 
+to let me know more about yourself.
