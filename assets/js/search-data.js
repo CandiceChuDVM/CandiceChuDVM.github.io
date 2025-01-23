@@ -431,7 +431,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-microrna-in-feline-ckd",
           title: 'MicroRNA in Feline CKD',
-          description: "EveryCat Health Foundation CaP-K22-008 ($23,000.00)",
+          description: "EveryCat Health Foundation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_research_catmicrorna/";
             },},{id: "projects-what-s-your-diagnosis-wyd-database",
