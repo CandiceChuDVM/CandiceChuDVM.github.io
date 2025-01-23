@@ -2,7 +2,7 @@
 layout: page
 title: Application of AI Chatbot in veterinary education
 description:
-img: assets/img/1_project_vetclinpathgpt.jpg
+img: assets/img/2_project_research_vtpb927.jpg
 importance: 2
 category: Research
 redirect: false
