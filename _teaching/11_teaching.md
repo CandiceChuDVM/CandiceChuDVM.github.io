@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top 3 Conditions Missed by Skipping Urinalysis 
+title: Top 3 Conditions Missed by Skipping Urinalysis
 description: Clinician’s Brief (1/15/2024)
 img: assets/img/Clinicians_Brief_Podcast.jpg
 redirect: https://open.spotify.com/episode/0dmfvHhMHShc4Ndv3cKtL2?si=uvfjrcO2SVmAd6Wshyr4ww

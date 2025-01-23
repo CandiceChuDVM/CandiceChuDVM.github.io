@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Can AI Improve Veterinary Diagnostics and Academic Efficiency? 
+title: Can AI Improve Veterinary Diagnostics and Academic Efficiency?
 description: Digital Pathology (10/17/2024)
 img: assets/img/Digital_Pathology_Podcast.jpg
 redirect: https://open.spotify.com/episode/62rBaBkEJ0ouIRnu4yEZFV?si=Afa7zPckTve8uyc81aLQWQ
