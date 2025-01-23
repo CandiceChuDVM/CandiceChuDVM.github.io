@@ -449,7 +449,25 @@ ninja.data = [{
           description: "A free veterinary clinical pathology AI tutor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "teaching-a-conversation-with-dr-candice-chu",
+            },},{id: "talks-tamu-center-for-teaching-excellence-hear-from-peers-ai-teaching-assistant-build-your-own-custom-chatgpt-no-coding-required-texas-a-amp-amp-m-university",
+          title: 'TAMU Center for Teaching Excellence: Hear from Peers: AI teaching assistant Build your...',
+          description: "",
+          section: "Talks",},{id: "talks-tamu-cvm-research-conversation-series-streamlining-academic-writing-with-ai-and-digital-tools-for-enhacing-productivity-invited-by-dr-michael-criscitiello-texas-a-amp-amp-m-university",
+          title: 'TAMU CVM Research Conversation Series: Streamlining Academic Writing with AI and Digital Tools...',
+          description: "",
+          section: "Talks",},{id: "talks-中華民國農學團體113年聯合年會論壇-ai農業-創新韌性-agricultureal-association-of-taiwan-annual-meeting-生成式ai在獸醫的應用-generative-ai-in-veterinary-medicine-invited-by-國立中興大學工學院院長-楊明德特聘教授-dr-ming-der-yang-國立臺灣大學-national-taiwan-university",
+          title: '中華民國農學團體113年聯合年會論壇「AI農業 創新韌性」（Agricultureal Association of Taiwan Annual Meeting）: 生成式AI在獸醫的應用（Generative AI in Veterinary Medicine）invited by...',
+          description: "",
+          section: "Talks",},{id: "talks-生成式ai賦能智慧農業-genai-enpowered-smart-agriculture-生成式ai在獸醫的應用-the-applications-of-generative-ai-in-veterinary-medicine-invited-by-國立中興大學工學院院長-楊明德特聘教授-dr-ming-der-yang-國立中興大學-national-chung-hsing-university",
+          title: '生成式AI賦能智慧農業（GenAI-Enpowered Smart Agriculture）: 生成式AI在獸醫的應用（The Applications of Generative AI in Veterinary Medicine）invited by 國立中興大學工學院院長...',
+          description: "",
+          section: "Talks",},{id: "talks-acvp-webinar-chatgpt-for-veterinary-professionals",
+          title: 'ACVP Webinar: ChatGPT for Veterinary Professionals',
+          description: "",
+          section: "Talks",},{id: "talks-7th-annual-vmbs-teaching-showcase-keynote-generative-ai-in-veterinary-education",
+          title: '7th Annual VMBS Teaching Showcase Keynote: Generative AI in Veterinary Education',
+          description: "",
+          section: "Talks",},{id: "teaching-a-conversation-with-dr-candice-chu",
           title: 'A conversation with Dr. Candice Chu',
           description: "ACVP Podcast (12/7/2024)",
           section: "Teaching",handler: () => {
@@ -464,6 +482,11 @@ ninja.data = [{
           description: "Free to all ACVIM Candidates and Diplomates (11/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/12_teaching_ondemand_acvim/";
+            },},{id: "teaching-chatgpt-in-veterinary-medicine-how-artificial-intelligence-can-benefit-you",
+          title: 'ChatGPT in Veterinary Medicine - How Artificial Intelligence Can Benefit You',
+          description: "VIN (7/14/2024)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/13_teaching_ondemand_VIN/";
             },},{id: "teaching-all-you-need-to-know-about-round-cell-tumor-cytology",
           title: 'All You Need to Know About Round Cell Tumor Cytology',
           description: "$50.00 (2/6/2024)",
