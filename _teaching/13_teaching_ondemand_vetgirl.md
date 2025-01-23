@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All You Need to Know About Round Cell Tumor Cytology
-description: $50.00 (2/6/2024)
+description: VETgirl - $50.00 (2/6/2024)
 img: assets/img/13_teaching_ondemand_vetgirl.jpg
 redirect: https://vetgirlontherun.com/webinars/february-6-2024-all-you-need-to-know-about-round-cell-tumor-cytology/
 importance: 3

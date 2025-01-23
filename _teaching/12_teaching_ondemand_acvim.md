@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How I Streamline Academic Writing with AI and Digital Tools
-description: Free to all ACVIM Candidates and Diplomates (11/2024)
+description: ACVIM - Free to all ACVIM Candidates and Diplomates (11/2024)
 img: assets/img/12_acvim.jpg
 redirect: https://www.acvim.org/education/course-catalog/how-i-streamline-academic-writing-with-ai-and-digital-tools#speaker
 importance: 1
