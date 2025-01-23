@@ -436,7 +436,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-what-s-your-diagnosis-wyd-database",
           title: 'What’s Your Diagnosis (WYD) Database',
-          description: "Have you found it challenging to search for &#39;What&#39;s your diagnosis (WYD)&#39; articles in Veterinary Clinical Pathology? I have created this 📚WYD Database, an innovative tool to help with your challenging cytology cases. It is a free, searchable, easy-to-use platform that includes all WYD articles published since 2008.",
+          description: "This 📚WYD Database is a free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-vetclinpathgpt",
