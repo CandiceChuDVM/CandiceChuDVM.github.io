@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-news",
           title: "News",
-          description: "For speaker invitaiton, please contact Dr. Chu via email.",
+          description: "For speaker invitaiton, please email Dr. Chu - cchu [at] cvm [dot] tamu [dot] edu",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
