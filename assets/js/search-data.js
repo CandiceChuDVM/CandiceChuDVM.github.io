@@ -429,12 +429,7 @@ ninja.data = [{
           section: "News",},{id: "news-️-conference-dr-chu-is-heading-to-the-vmx-2025-veterinary-conference-to-teach-hematology-and-talk-about-ai",
           title: '✈️ Conference: Dr. Chu is heading to the VMX 2025 Veterinary Conference to...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-microrna-in-feline-ckd",
+          section: "News",},{id: "projects-microrna-in-feline-ckd",
           title: 'MicroRNA in Feline CKD',
           description: "EveryCat Health Foundation CaP-K22-008 ($23,000.00)",
           section: "Projects",handler: () => {
@@ -444,6 +439,11 @@ ninja.data = [{
           description: "This 📚WYD Database is a free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-application-of-vetclinpathgpt-in-veterinary-education",
+          title: 'Application of VetClinPathGPT in veterinary education',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project_research_vetclinpathgpt/";
             },},{id: "projects-vetclinpathgpt",
           title: 'VetClinPathGPT',
           description: "A free veterinary clinical pathology AI tutor",
