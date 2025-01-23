@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What’s Your Diagnosis (WYD) Database
-description: This 📚WYD Database is a free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.
+description: A free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.
 img: assets/img/2_project_WYD.jpg
 redirect: https://vetclinpath.notion.site/f5cce72fe6524c4b8511162f0f2fe6ac?v=ef3da7714cf94f9ab15822e961eb5850&pvs=4
 importance: 2
