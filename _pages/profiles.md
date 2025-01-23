@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description:
+description: Dr. Chu's lab members
 nav: true
 nav_order: 6
 
