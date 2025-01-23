@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: What’s Your Diagnosis (WYD) Database
+description: Have you found it challenging to search for 'What's your diagnosis (WYD)' articles in Veterinary Clinical Pathology? I have created this 📚WYD Database, an innovative tool to help with your challenging cytology cases. It is a free, searchable, easy-to-use platform that includes all WYD articles published since 2008.
+img: assets/img/2_project_WYD.jpg
+redirect: https://vetclinpath.notion.site/f5cce72fe6524c4b8511162f0f2fe6ac?v=ef3da7714cf94f9ab15822e961eb5850&pvs=4
 importance: 2
-category: work
-giscus_comments: true
+category: Tools
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: VetClinPathGPT
+description: A free veterinary clinical pathology AI tutor
+img: assets/img/1_project_vetclinpathgpt.jpg
+redirect: https://chatgpt.com/g/g-rfB5cBZ6X-vetclinpathgpt
+importance: 1
+category: Tools
 ---
 
 Every project has a beautiful feature showcase page.
