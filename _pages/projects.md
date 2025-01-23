@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: My research centers on advancing veterinary medicine through innovative applications of artificial intelligence (AI) and machine learning (ML). This includes developing AI-driven diagnostic tools for veterinary cytopathology, creating specialized datasets and benchmarks for AI applications, and identifying microRNA biomarkers to enable early disease detection.
 nav: true
 nav_order: 3
 display_categories: [Education Tools, Research]
