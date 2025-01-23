@@ -439,8 +439,8 @@ ninja.data = [{
           description: "This 📚WYD Database is a free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-application-of-vetclinpathgpt-in-veterinary-education",
-          title: 'Application of VetClinPathGPT in veterinary education',
+            },},{id: "projects-application-of-ai-chatbot-in-veterinary-education",
+          title: 'Application of AI Chatbot in veterinary education',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project_research_vetclinpathgpt/";
