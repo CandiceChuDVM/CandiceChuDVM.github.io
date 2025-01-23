@@ -434,46 +434,16 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-what-s-your-diagnosis-wyd-database",
+          title: 'What’s Your Diagnosis (WYD) Database',
+          description: "Have you found it challenging to search for &#39;What&#39;s your diagnosis (WYD)&#39; articles in Veterinary Clinical Pathology? I have created this 📚WYD Database, an innovative tool to help with your challenging cytology cases. It is a free, searchable, easy-to-use platform that includes all WYD articles published since 2008.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-vetclinpathgpt",
+          title: 'VetClinPathGPT',
+          description: "A free veterinary clinical pathology AI tutor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teaching-a-conversation-with-dr-candice-chu",
           title: 'A conversation with Dr. Candice Chu',
           description: "ACVP Podcast (12/7/2024)",
@@ -494,9 +464,9 @@ ninja.data = [{
           description: "$50.00 (2/6/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/13_teaching_ondemand_vetgirl/";
-            },},{id: "teaching-ai",
-          title: 'AI',
-          description: "Streamlining Academic Writing with AI and Digital Tools for Enhacing Productivity (11/12/2024)",
+            },},{id: "teaching-streamlining-academic-writing-with-ai-and-digital-tools-for-enhacing-productivity",
+          title: 'Streamlining Academic Writing with AI and Digital Tools for Enhacing Productivity',
+          description: "AI - TAMU Research Conversation (11/12/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
             },},{id: "teaching-google-notebooklm-turned-my-cv-into-a-podcast",
