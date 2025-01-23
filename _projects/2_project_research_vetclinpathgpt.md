@@ -5,7 +5,7 @@ description:
 img: assets/img/2_project_research_vtpb927.jpg
 importance: 2
 category: Research
-redirect: false
+redirect: https://chatgpt.com/g/g-rfB5cBZ6X-vetclinpathgpt
 related_publications: false
 ---
 
