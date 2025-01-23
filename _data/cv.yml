@@ -155,4 +155,8 @@
 - title: Publications
   type: list
   contents:
-    - Please view the <a href="https://candicechudvm.github.io/publications/">publications</a> tab.
+    - Please view the <a href="https://candicechudvm.github.io/publications/">Publications</a> tab.
+- title: Presentations
+  type: list
+  contents:
+    - Please view the <a href="https://candicechudvm.github.io/talks/">Talks</a> tab.
