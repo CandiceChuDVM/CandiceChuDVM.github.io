@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChatGPT in Veterinary Medicine - How Artificial Intelligence Can Benefit You
-description: VIN (7/14/2024)
+description: VIN - Free to VIN members (7/14/2024)
 img: assets/img/20240714_VIN.jpg
 redirect: https://www.vin.com/vinmembers/rounds?id=12167481&f5=1
 importance: 2
