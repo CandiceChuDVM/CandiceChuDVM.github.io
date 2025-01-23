@@ -13,12 +13,5 @@ profiles:
     image: prof_pic_yumi.jpg
     content: about_yumi.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>
-        Prospective students, please apply through the
-        <a href="https://vetmed.tamu.edu/bims-graduate-program/">BIMS Graduate Program</a>
-        and mention my name in your application. Meanwhile, kindly fill out this
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSda8VR-FEFbseoXFtjCj6U6vWOKNZq8_5Dss_p7o4mzxRzaFQ/viewform?usp=header">Google form</a>
-        to let me know more about yourself.
-      </p>
+    more_info: null
 ---
