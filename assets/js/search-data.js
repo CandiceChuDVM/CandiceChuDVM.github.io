@@ -443,7 +443,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project_research_catmicrorna/";
             },},{id: "projects-what-s-your-diagnosis-wyd-database",
           title: 'What’s Your Diagnosis (WYD) Database',
-          description: "This 📚WYD Database is a free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.",
+          description: "A free, searchable, easy-to-use platform that includes all WYD articles published in Veterinary Clinical Pathology since 2008.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-application-of-ai-chatbot-in-veterinary-education",
