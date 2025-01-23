@@ -11,7 +11,7 @@ description: For speaker invitaiton, please email Dr. Chu - cchu [at] cvm [dot] 
 
 -  **20241129 中華民國農學團體聯合年會論壇「AI農業 創新韌性」（Agricultureal Association of Taiwan Annual Meeting）**: 生成式AI在獸醫的應用（Generative AI in Veterinary Medicine）invited by 國立中興大學工學院院長 楊明德特聘教授（Dr. Ming-Der Yang） @ 國立臺灣大學（National Taiwan University）
 
-### 👩‍🏫Invited talks
+### 👩‍🏫 Invited talks
 
 -  **20241216 Annual VMBS Teaching Showcase Keynote**: Generative AI in Veterinary Education @ Texas A&M University
 
@@ -19,7 +19,7 @@ description: For speaker invitaiton, please email Dr. Chu - cchu [at] cvm [dot] 
 
 -  **20240629 Texas Taiwanese Biotechnology Association (TTBA)**: Career Coffee Chat @ Texas A&M University
 
-### 🌐Webinars
+### 🌐 Webinars
 
 -  **20241211 ACVP Webinar**: ChatGPT for Veterinary Professionals
 
