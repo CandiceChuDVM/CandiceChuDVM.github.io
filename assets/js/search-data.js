@@ -447,7 +447,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-application-of-ai-chatbot-in-veterinary-education",
-          title: 'Application of AI Chatbot in Veterinary Education',
+          title: 'Application of AI Chatbot in veterinary education',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project_research_vetclinpathgpt/";
