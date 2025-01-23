@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-news",
           title: "News",
-          description: "For speaker invitaiton, please email Dr. Chu - cchu [at] cvm [dot] tamu [dot] edu",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-talks",
+          title: "Talks",
+          description: "For speaker invitaiton, please email Dr. Chu - cchu [at] cvm [dot] tamu [dot] edu",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
           },
         },{id: "nav-cv",
           title: "CV",
