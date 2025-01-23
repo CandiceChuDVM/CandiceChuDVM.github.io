@@ -1,10 +1,10 @@
 ---
 layout: page
-title: All You Need to Know About Round Cell Tumor Cytology
-description: $50.00 (2/6/2024)
-img: assets/img/13_teaching_ondemand_vetgirl.jpg
-redirect: https://vetgirlontherun.com/webinars/february-6-2024-all-you-need-to-know-about-round-cell-tumor-cytology/
-importance: 3
+title: ChatGPT in Veterinary Medicine - How Artificial Intelligence Can Benefit You
+description: VIN (7/14/2024)
+img: assets/img/20240714_VIN.jpg
+redirect: https://www.vin.com/vinmembers/rounds?id=12167481&f5=1
+importance: 2
 category: On Demand
 ---
 
