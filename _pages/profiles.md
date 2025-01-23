@@ -2,7 +2,11 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members of Chu Lab
+description: Prospective students, please apply through the 
+<a href="https://vetmed.tamu.edu/bims-graduate-program/" target="_blank">BIMS Graduate Program</a> 
+and mention my name in your application. Meanwhile, kindly fill out this 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSda8VR-FEFbseoXFtjCj6U6vWOKNZq8_5Dss_p7o4mzxRzaFQ/viewform?usp=header" target="_blank">Google form</a> 
+to share more about yourself.
 nav: true
 nav_order: 5
 
