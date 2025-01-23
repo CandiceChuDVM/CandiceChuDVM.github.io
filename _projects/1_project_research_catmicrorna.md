@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MicroRNA in Feline CKD
-description: EveryCat Health Foundation CaP-K22-008 ($23,000.00)
+description: EveryCat Health Foundation
 img: assets/img/3_project_catmicroRNA.jpg
 redirect: https://everycat.org/the-2022-everycat-health-foundation-research-update/
 importance: 1
