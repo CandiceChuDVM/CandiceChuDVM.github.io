@@ -468,12 +468,12 @@ ninja.data = [{
               window.location.href = "/teaching/11_teaching/";
             },},{id: "teaching-how-i-streamline-academic-writing-with-ai-and-digital-tools",
           title: 'How I Streamline Academic Writing with AI and Digital Tools',
-          description: "ACVIM - Free to all ACVIM Candidates and Diplomates (11/2024)",
+          description: "ACVIM - Free to ACVIM Candidates and Diplomates (11/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/12_teaching_ondemand_acvim/";
             },},{id: "teaching-chatgpt-in-veterinary-medicine-how-artificial-intelligence-can-benefit-you",
           title: 'ChatGPT in Veterinary Medicine - How Artificial Intelligence Can Benefit You',
-          description: "VIN (7/14/2024)",
+          description: "VIN - Free to VIN members (7/14/2024)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/13_teaching_ondemand_VIN/";
             },},{id: "teaching-all-you-need-to-know-about-round-cell-tumor-cytology",
